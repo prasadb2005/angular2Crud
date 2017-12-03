@@ -1,0 +1,10 @@
+table{
+    border:1px solid;
+    min-height: 50px;
+    overflow:scroll;
+}
+td{
+    margin:30px;
+    padding-left: 1em;
+    padding-top: 1em;
+}

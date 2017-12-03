@@ -1,0 +1,47 @@
+[
+    {
+        "vendorId": 1,
+        "vendorName": "Test Product 1",
+        "vendorCode": "A-0011",
+        "registrationDate": "March 19, 2016",
+        "vendorDescription": "Leaf rake with 48-inch wooden handle.",
+        "age": 19.95
+       
+    },
+    {
+        "vendorId": 2,
+        "vendorName": "Test Product 2",
+        "vendorCode": "B-0023",
+        "registrationDate": "March 18, 2016",
+        "vendorDescription": "15 gallon capacity rolling garden cart",
+        "age": 32.99
+     
+    },
+    {
+        "vendorId": 5,
+        "vendorName": "Test Product 3",
+        "vendorCode": "C-0048",
+        "registrationDate": "May 21, 2016",
+        "vendorDescription": "Curved claw steel hammer",
+        "age": 8.9
+    
+    },
+    {
+        "vendorId": 8,
+        "vendorName": "Test Product 4",
+        "vendorCode": "D-0022",
+        "registrationDate": "May 15, 2016",
+        "vendorDescription": "15-inch steel blade hand saw",
+        "age": 11.55
+     
+    },
+    {
+        "vendorId": 10,
+        "vendorName": "Test Product 5",
+        "vendorCode": "E-0042",
+        "registrationDate": "October 15, 2015",
+        "vendorDescription": "Standard two-button video game controller",
+        "age": 35.95
+   
+    }
+]
